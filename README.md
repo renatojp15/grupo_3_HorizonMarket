@@ -27,4 +27,5 @@ https://www.superxtra.com/?gad_source=1&gclid=EAIaIQobChMIqrza2dXlgwMV6p1aBR1CQg
 https://www.walmart.com/
 https://www.amazon.com/?&tag=googleglobalp-20&ref=pd_sl_7nnedyywlk_e&adgrpid=159651196451&hvpone=&hvptwo=&hvadid=675114638556&hvpos=&hvnetw=g&hvrand=5550744843641420427&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1011094&hvtargid=kwd-10573980&hydadcr=2246_13649807
 https://us.shein.com/ 
+
 estos sitios fueron elegidos como referencia ya que nos parecieron interesantes y atractivos por sus diseños, estilos, interfaz muy llamativa.  
