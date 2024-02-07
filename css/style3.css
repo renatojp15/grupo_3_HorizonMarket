@@ -49,6 +49,14 @@ input{
 .first-row{
     display: flex;
     padding: 10px;
+    padding-top: 20px;
+    justify-content: space-around;
+}
+
+.second-row{
+    display: flex;
+    padding: 10px;
+    padding-top: 30px;
     justify-content: space-around;
 }
 
