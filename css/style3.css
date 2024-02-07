@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: skyblue;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+
+
+body{
+    background-color: white;
+}
+
+nav{
+    font-size: 20px;
+    display: flex;
+    margin-top: 50px;
+    background-color: yellow;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-list{
+    position: fixed; /* Posición fija en relación con la ventana del navegador */
+    left: 20px;
+    font-size: 19px;
+}
+
+.iconos{
+    position: fixed; /* Posición fija en relación con la ventana del navegador */
+    right: 20px;
+    font-size: 19px;
+}
+  
+.iconos i{
+    margin-left: 15px;
+}
+
+.orange{
+    color: yellow
+}
