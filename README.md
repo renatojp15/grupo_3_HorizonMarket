@@ -11,7 +11,7 @@ Holis, soy Yansy! tengo 25 años y soy una amante de la cultura kpop. Actualment
 Hola mi nombre es Naeliz! Tengo 20 años de edad. Soy una persona soñadora, alegre y reservada. Me encanta ver películas y series en mis tiempos libres. Soy una persona que mira hacia el futuro, me encanta descubrir nuevas tendencias en el ámbito tecnológico y seguir aprendiendo sobre la programación también me gustaría descubrir nuevos lugares para poder viajar y aprender distintos idiomas. 
 
 ## Melvin Velásquez
-Hola me llamo Melvin Velásquez, tengo 24 años, me considero una persona bastante introvertida, pero observadora, mis principios se basan en aquello que enseña la biblia. La verdad me gusta saber de todo un poco, cosas relacionadas al espacio, el universo, la histoia, la tegnología, la música, también soy amante del anime, las películas y series. Si tuviera que hablar sobre una meta personal, ésta sería viajar a Japón o Suiza junto con mi familia y amigos. 
+Hola me llamo Melvin Velásquez, tengo 24 años, me considero una persona bastante introvertida, pero observadora, mis principios se basan en aquello que enseña la biblia. La verdad me gusta saber de todo un poco, cosas relacionadas al espacio, el universo, la historia, la tecnología, la música, también soy amante del anime, las películas y series. Si tuviera que hablar sobre una meta personal, ésta sería viajar a Japón o Suiza junto con mi familia y amigos. 
 
 # DESCRIPCIÓN DE LA PÁGINA
 ¡Bienvenido a "HorizonMarket"! Nuestra página es tu destino único para satisfacer todas tus necesidades de compras en línea, ofecemos una amplia variedad de productos de alta calidad y las mejores marcas. Estamos aquí para hacer que tu experiencia de compra sea fácil, conveniente y emocionante.
