@@ -74,3 +74,25 @@ input{
 .categories-box p{
     text-align: center;
 }
+
+.categorias-destacadas h2{
+    text-align: center;
+}
+
+footer{
+    background-color: skyblue;
+    padding-bottom: 150px;
+}
+
+.pie-de-pagina{
+    padding: 10px;
+}
+
+.pie-de-pagina a{
+    padding: 10px;
+}
+
+.copyright p{
+    color: white;
+    text-align: center;
+}
