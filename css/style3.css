@@ -20,26 +20,25 @@ nav{
     font-size: 20px;
     display: flex;
     margin-top: 50px;
+    padding: 10px;
     background-color: yellow;
     height: 40px;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
-.icon-list{
-    position: fixed; /* Posición fija en relación con la ventana del navegador */
-    left: 20px;
-    font-size: 19px;
+.icon-search{
+ margin-left: 300px;
 }
 
-.iconos{
-    position: fixed; /* Posición fija en relación con la ventana del navegador */
-    right: 20px;
-    font-size: 19px;
+.icono-buscar{
+    margin-right: 150px;
 }
-  
-.iconos i{
-    margin-left: 15px;
+
+input{
+  width: 400px; /* Ancho de la barra de búsqueda */
+  padding: 3px;
+  font-size: 15px;
 }
 
 .orange{
