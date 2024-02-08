@@ -43,6 +43,7 @@ h1{
 
 }
 
+
 .input{
     width: 100%;
     height: 40px;
@@ -55,6 +56,7 @@ h1{
     min-height: 100vh;
     background-image: url(https://img.freepik.com/vector-premium/fondo-vector-monocromo-blanco-abstracto-folleto-diseno-folleto-sitio-web-fondo-pantalla-blanco-geometrico-pagina-inicio-presentacion-certificado_249611-5879.jpg);
     background-size: cover;
+    
 }
 
 .titulo2{
@@ -221,7 +223,7 @@ footer{
 }
 
 .clothes img{
-    width: 200px;
+    width: 300px;
 }
 
 .clothes-box p{
@@ -261,9 +263,13 @@ footer{
 }
 
 .product-detail img{
-    height: 400px;
+    height: 300px;
+
 }
 
+h2{ 
+    color: rgb(6, 107, 107);
+}
 .product-detail p{
     padding-top: 20px;
 }
