@@ -2,19 +2,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-h1{
-font: brown;
-}
-
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background-image: url(https://img.freepik.com/vector-premium/fondo-vector-monocromo-blanco-abstracto-folleto-diseno-folleto-sitio-web-fondo-pantalla-blanco-geometrico-pagina-inicio-presentacion-certificado_249611-5879.jpg);
+header{
+    background-image: url(https://p1.pxfuel.com/preview/915/392/906/backround-color-grain-background.jpg);
     background-size: cover;
+    font-size: 35px;
+    text-align: center;
+    color: white;
 }
 
 .formulario{
@@ -25,14 +21,32 @@ body{
     border-radius: 10px;
     padding: 30px 40px;
     text-align: center;
-    color: brown;
-    
+    color: rgb(63, 177, 223);
+    align-items: center;
+
 }
+.input{
+    width: 100%;
+    height: 40px;
+}
+  .cuerpo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(https://img.freepik.com/vector-premium/fondo-vector-monocromo-blanco-abstracto-folleto-diseno-folleto-sitio-web-fondo-pantalla-blanco-geometrico-pagina-inicio-presentacion-certificado_249611-5879.jpg);
+    background-size: cover;
+}
+
+.titulo2{
+    text-align: center;
+}
+  
 ::placeholder{
     text-align: center;
 }
 button {
-    background-color: rgb(109, 20, 42);
+    background-color: rgb(19, 170, 230);
     color: white;
     border: none;
     padding: 10px 20px;
@@ -42,11 +56,91 @@ button {
   }
   
 button:hover {
-    background-color: green;
+    background-color: rgb(172, 146, 4);
   }
 
-  .input{
-    width: 100%;
-    height: 40px;
+body{
+    background-image: url(https://img.freepik.com/vector-premium/fondo-vector-monocromo-blanco-abstracto-folleto-diseno-folleto-sitio-web-fondo-pantalla-blanco-geometrico-pagina-inicio-presentacion-certificado_249611-5879.jpg);
+    background-size: cover;
 }
-  
+
+nav{
+    font-size: 20px;
+    display: flex;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: gold;
+    height: 40px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon-search{
+ margin-left: 300px;
+}
+
+.icono-buscar{
+    margin-right: 150px;
+}
+
+input{
+  width: 400px; /* Ancho de la barra de búsqueda */
+  padding: 3px;
+  font-size: 15px;
+}
+
+.orange{
+    color: gold;
+}
+
+.first-row{
+    display: flex;
+    padding: 10px;
+    padding-top: 20px;
+    justify-content: space-around;
+}
+
+.second-row{
+    display: flex;
+    padding: 10px;
+    padding-top: 30px;
+    justify-content: space-around;
+}
+
+.categories-box img{
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+
+.categories-box p{
+    text-align: center;
+}
+
+.categorias-destacadas h2{
+    text-align: center;
+}
+
+footer{
+    background-image: url(https://p1.pxfuel.com/preview/915/392/906/backround-color-grain-background.jpg);
+    background-size: cover;
+    padding-bottom: 150px;
+}
+
+.pie-de-pagina{
+    padding: 10px;
+}
+
+.pie-de-pagina a{
+    padding: 10px;
+}
+
+.copyright p{
+    color: white;
+    text-align: center;
+}
