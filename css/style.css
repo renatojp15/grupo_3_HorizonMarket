@@ -231,13 +231,6 @@ footer{
 /* ----------------------------- */
 
 /* estilos del detalle del producto */
-.product-detail{
-    background-color: rgb(248, 242, 242);
-    padding: 20px;
-    padding-bottom: 40px;
-    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.5);
-}
-
 .producto{
     display: flex;
     justify-content: flex-start;
@@ -247,25 +240,10 @@ footer{
     padding-right: 20px;
 }
 
-.producto p{
-    padding-top: 100px;
-    background-color: rgb(179, 172, 172);
-    padding: 50px;
+.product-detail{
+    background-color: rgb(206, 199, 199);
 }
 
-.producto h4{
-    text-align: center;
-    font-weight: bold;
-    font-size: 30px;
-    padding-top: 20px;
-}
 
-.product-detail img{
-    height: 400px;
-}
-
-.product-detail p{
-    padding-top: 20px;
-}
 
 /* -------------------------------- */
