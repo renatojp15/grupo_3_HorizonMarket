@@ -36,23 +36,30 @@
     </header>
 
 <main class="cuerpo">
+
 <section class="formulario">
-<form class="form"  method="post">
+
+<form action="/formulario" class="form"  method="get">
+
     <br><h3>REGISTRARSE</h3></br>
 <div class="input">
-    <input type="text" name="name" placeholder="NOMBRE">
+    <input id="nombre" type="text" name="name" placeholder="NOMBRE">
+    <small class="mensaje-1"></small>
 </div>
 
 <div class="input">
-    <input type="text" name="apellido" placeholder="APELLIDO">
+    <input id="apellido" type="text" name="apellido" placeholder="APELLIDO">
+    <small class="mensaje-2"></small>
 </div>
 
 <div class="input">
-    <input type="email" name="correo" placeholder="CORREO">
+    <input id="correo" type="email" name="correo" placeholder="CORREO">
+    <small class="mensaje-3"></small>
 </div>
 
 <div class="input">
-<input type="password" name="contraseña" placeholder="CONTRASEÑA">
+<input id="contraseña" type="password" name="contraseña" placeholder="CONTRASEÑA">
+<small class="mensaje-4"></small>
 </div>
 
 <br><button class="button">REGISTRARSE</button></br>
@@ -70,5 +77,7 @@
     <p><i class="fa-regular fa-copyright"></i>2023-2024 HorizonMarket. Todos los derechos reservados.</p>
     </div>
 </footer>
+
+<script src="./JS/master.js"></script>
 </body>
 </html>
